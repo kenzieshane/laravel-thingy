@@ -8,3 +8,5 @@ Route::get('/', function () {
 });
 
 Route::post('/register', [Pengguna::class, 'register']);
+Route::post('/logout', [Pengguna::class, 'logout']);
+Route::post('/login', [Pengguna::class, 'login']);
