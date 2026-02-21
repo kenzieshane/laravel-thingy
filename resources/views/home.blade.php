@@ -99,7 +99,7 @@
                         <h1 class="hero-title" style="font-size: 2rem; color: #fff; margin-bottom: 0rem;">Welcome to KenzieShane's Media!</h1>
                     </div>
 
-                     <div width="100%" style="grid-template-columns: 60px 60px 60px 60px 60px 60px; grid-template-rows: 60px 60px; display: grid;gap: 10px">
+                     <div width="100%" style="grid-template-columns: 60px 60px 60px 60px 60px; grid-template-rows: 60px 60px; display: grid;gap: 10px">
                             <a href="https://kenzieshane.itch.io"><img style="justify-items: center" height="100%" style="object-fit: contain;" src=4.png></a>
                             <a href="https://kenzieshane.itch.io"><img style="justify-items: center" height="100%" src=5.png></a>
                             <a href="https://kenzieshane.itch.io"><img style="justify-items: center" height="100%" src=6.png></a>
